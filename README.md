@@ -8,7 +8,7 @@ Olá. Sejam bem vindos ao meu repositório!
 
 Sou uma desenvolvedora em constante evolução. Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para estudar ou contribuir com o projeto de alguém.
 
-##Mais sobre mim 
+<h3>Mais sobre mim </h3>
 - Estudante de Sistemas de Informação;
 - Participante do Bootcamp Generation;
 - Curiosa e dedicada!
@@ -19,6 +19,10 @@ Sou uma desenvolvedora em constante evolução. Sendo assim, aqui compartilharei
 </p>
  
 
+<h4>Estatisticas</h4>
+<br>
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JuRibeiro)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuRibeiro)](https://github.com/JuRibeiro?tab=repositories)
