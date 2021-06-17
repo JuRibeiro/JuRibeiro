@@ -19,7 +19,7 @@ Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para e
 <img width="5%"src="https://github.com/JuRibeiro/JulianaRibeiro/blob/main/img/linkedin.png"> 
 </p>
  
-
+<p align="center">
 <h3>Estatisticas</h3>
 <br>
 
@@ -27,7 +27,7 @@ Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para e
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuRibeiro)](https://github.com/JuRibeiro?tab=repositories)
-
+</P>
 
 <h3>Linguagens e Ferramentas </h3>
 
