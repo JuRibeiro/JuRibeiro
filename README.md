@@ -1,5 +1,5 @@
 # JulianaRibeiro
-<img src="JulianaRibeiro/img/mulheres-na-tech">
+<img src="https://github.com/JuRibeiro/JulianaRibeiro/blob/main/img/mulheres-na-tech.jpg">
 
 Olá. Sejam bem vindos ao meu repositório!
 
