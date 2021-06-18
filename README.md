@@ -16,7 +16,7 @@ Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para e
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juliana-ribeiro-b71316153/">
-<img width="5%"src="https://github.com/JuRibeiro/JulianaRibeiro/blob/main/img/linkedin.png"> 
+<img width="5%"src="https://github.com/JuRibeiro/JulianaRibeiro/blob/main/img/linkedin.png" target="_blank"> 
 </p>
  
 
