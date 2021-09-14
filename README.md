@@ -12,7 +12,8 @@ Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para e
 <h3>Mais sobre mim </h3>
 - Estudante de Sistemas de Informação; <br>
 - Participante do Bootcamp Generation; <br>
-- Curiosa e dedicada!
+- Curiosa e dedicada;<br>
+- Meu codepen: https://codepen.io/juribeiro 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juliana-ribeiro-b71316153/" target="_blank">
