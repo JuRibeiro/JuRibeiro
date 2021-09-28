@@ -20,7 +20,7 @@ Sendo assim, aqui compartilharei alguns dos projetos que desenvolvo, seja para e
 <img width="5%"src="https://github.com/JuRibeiro/JulianaRibeiro/blob/main/img/linkedin.png"> 
  
  <a href="https://codepen.io/juribeiro" target="_blank">
-<img width="5%" border-radius:50% src="https://pbs.twimg.com/profile_images/923214541290221569/dCMZxkwz_400x400.jpg"> 
+<img width="5%" border-radius:50% src="https://media-exp1.licdn.com/dms/image/C560BAQGKtd1slGeUMA/company-logo_200_200/0/1564001544623?e=2159024400&v=beta&t=CiWYpr9RZkL13ag-LGOZsedIq1USOeUyX4uZiPIQW9k"> 
 </p>
  
 
